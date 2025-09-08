@@ -1,6 +1,6 @@
 # BccMaterial
 
-Organização com repositórios de trabalhos e exercícios feitos durante o curso de BCC.
+Organização com repositórios de trabalhos e exercícios feitos durante o curso de Bacharelado em Ciência da Computação.
 
 ## Nomenclatura dos repos
 
